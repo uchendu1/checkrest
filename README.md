@@ -1,2 +1,2 @@
 # checkrest
-check rest repo
+check rest repo for git commands
